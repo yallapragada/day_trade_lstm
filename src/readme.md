@@ -1,7 +1,6 @@
+<h2>README for PREPROCESSING SCRIPTS</h2>
 
-
-<h3>iex_pre_processing_v2_stg1.py</h3>
-takes a iex data file and generates an output file with following fields:
+<h3>iex_pre_processing_v2_stg1.py</h3>takes a iex data file and generates an output file with following fields:
 ticker,date,price_2,price_4,price_6,price_8,price_10,price_12,price_14,price_16,price_18,price_20,p_sma1,p_sma2,p_sma3,v_sma1,v_sma2,v_sma3,p_ema1,p_ema2,p_ema3,v_ema1,v_ema2,v_ema3,target
 
 <h3>iex_pre_processing_v2_stg2.py</h3>
